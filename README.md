@@ -84,7 +84,6 @@ The analysis uses a **first-order, month-strict attribution model**, meaning:
 - **CAC (Customer Acquisition Cost)**: Spend / new customers acquired.  
 - **LTV (Customer Lifetime Value)**: Revenue per acquired customer.  
 - **M+1 Retention**: Share of customers placing a second order the following month.  
-- **LTV:CAC Ratio**: Key profitability metric.  
 
 ---
 
@@ -102,3 +101,7 @@ The company **OnTime** does not exist, and all data, requirements, and deliverab
 No confidential or real company information is shared.  
 
 ---
+
+## 📊 Dashboard Preview
+
+[![OnTime Marketing Dashboard Overview](assets/dashboard_cover.png)](https://public.tableau.com/app/profile/daniel.guidi/viz/shared/724QMJ3ZJ)
